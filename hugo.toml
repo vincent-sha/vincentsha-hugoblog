@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = '文森的博客网站'
+theme = 'stack'
